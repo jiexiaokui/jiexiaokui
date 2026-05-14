@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" role="img" aria-labelledby="title desc">
+  <title>Jiexiaokui Logo</title>
+  <desc>Wordmark logo for Xuzhou Jiexiaokui Network Technology Co., Ltd</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2ee6a6"/>
+      <stop offset="100%" stop-color="#2ea8ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="6" width="48" height="48" rx="12" fill="#0f243a"/>
+  <path d="M14 20h22a10 10 0 0 1 0 20H23" fill="none" stroke="url(#g)" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="22" cy="40" r="4" fill="#2ee6a6"/>
+  <text x="60" y="38" font-size="24" font-family="Segoe UI, Tahoma, sans-serif" font-weight="700" fill="#f4f7fb">Jiexiaokui</text>
+</svg>
